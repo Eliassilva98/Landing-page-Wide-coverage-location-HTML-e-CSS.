@@ -17,4 +17,5 @@ O objetivo é simples e claro: evoluir continuamente, aprender com a prática e 
 <br>
 📌 Projeto desenvolvido para fins de estudo e evolução contínua no desenvolvimento front-end.
 <br>
-<img src=''>
+<br>
+<img src='https://github.com/Eliassilva98/Landing-page-Wide-coverage-location-HTML-e-CSS./blob/main/assets/foto%20Wide%20coverage%20location.png?raw=true'>
