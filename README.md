@@ -15,7 +15,7 @@ O objetivo é simples e claro: evoluir continuamente, aprender com a prática e 
   <img src='https://cdn-icons-png.flaticon.com/128/15474/15474190.png' width='50'>
 </div>
 <br>
-📌 Projeto desenvolvido para fins de estudo e evolução contínua no desenvolvimento front-end.
+📌 Projeto desenvolvido para praticar HTML e CSS no front-end.
 <br>
 <br>
 <img src='https://github.com/Eliassilva98/Landing-page-Wide-coverage-location-HTML-e-CSS./blob/main/assets/foto%20Wide%20coverage%20location.png?raw=true'>
